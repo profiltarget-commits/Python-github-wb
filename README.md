@@ -8,3 +8,7 @@
 - Circle: P = 2πR
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
+
+## Hello, it's Alina
+- This is my clone fork
+- I study programming 
